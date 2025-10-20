@@ -1,10 +1,8 @@
-<p align="center"><img alt="osing guide banner" src="public/assets/img/osingguide/osingguide-banner.png"></p>
 
-# 🏖️ OsingGuide - Platform Pesan Pemandu Wisata di Banyuwangi
 
-**By:** Rio Adjie Wiguna  
-**Version:** 1.0.0  
-**Last Updated:** August 2025
+# 🏖️ MboisGuide - Platform Pesan Pemandu Wisata di Banyuwangi
+
+
 
 ## 📋 Table of Contents
 - [Tentang Aplikasi](#-tentang-aplikasi)
